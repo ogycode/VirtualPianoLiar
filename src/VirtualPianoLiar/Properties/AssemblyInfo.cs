@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("VirtualPianoLiar")]
 [assembly: AssemblyDescription("Программа для автоматического проигрывания нот на сайте virtualpiano.net")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("verloka.xyz")]
+[assembly: AssemblyCompany("verloka.github.io")]
 [assembly: AssemblyProduct("VirtualPianoLiar")]
-[assembly: AssemblyCopyright("Verloka Vadim ©  2016")]
+[assembly: AssemblyCopyright("Verloka Vadim ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

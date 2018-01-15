@@ -49,7 +49,7 @@
             </MenuItem>
             <MenuItem Header="Справка">
                 <MenuItem Header="virtualpiano.com" Click="MenuItem_Click"></MenuItem>
-                <MenuItem Header="verloka.xyz" Click="MenuItem_Click_1"></MenuItem>
+                <MenuItem Header="verloka.github.io" Click="MenuItem_Click_1"></MenuItem>
                 <Separator></Separator>
                 <MenuItem Header="О программе VirtualPiano Liar" Click="MenuItem_Click_2"></MenuItem>
             </MenuItem>
